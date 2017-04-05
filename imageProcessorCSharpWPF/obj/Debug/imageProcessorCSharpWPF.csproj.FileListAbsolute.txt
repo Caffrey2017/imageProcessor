@@ -1,0 +1,13 @@
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\bin\Debug\imageProcessorCSharpWPF.exe.config
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\bin\Debug\imageProcessorCSharpWPF.exe
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\bin\Debug\imageProcessorCSharpWPF.pdb
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\MainWindow.g.cs
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\imageProcessorCSharpWPF_MarkupCompile.cache
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\imageProcessorCSharpWPF_MarkupCompile.lref
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\MainWindow.baml
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\imageProcessorCSharpWPF.g.resources
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\imageProcessorCSharpWPF.Properties.Resources.resources
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\imageProcessorCSharpWPF.csproj.GenerateResource.Cache
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\imageProcessorCSharpWPF.exe
+c:\users\robert\documents\visual studio 2015\Projects\imageProcessorCSharpWPF\imageProcessorCSharpWPF\obj\Debug\imageProcessorCSharpWPF.pdb
